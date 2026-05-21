@@ -1,7 +1,0 @@
-{
-  "name": "plandaily",
-  "private": true,
-  "scripts": {
-    "start": "node server.js"
-  }
-}
