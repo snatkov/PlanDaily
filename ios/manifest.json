@@ -1,0 +1,15 @@
+{
+  "name": "PlanDaily",
+  "short_name": "PlanDaily",
+  "description": "Планировщик задач с напоминаниями",
+  "start_url": "../index.html",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#0f0f1a",
+  "theme_color": "#6c5ce7",
+  "scope": "../",
+  "id": "../index.html",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml" }
+  ]
+}
